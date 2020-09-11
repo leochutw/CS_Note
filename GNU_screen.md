@@ -128,7 +128,7 @@ susp = ^Z; rprnt = ^R; werase = ^W; lnext = ^V; flush = ^O; min = 100; time = 2;
 -isig -icanon iexten -echo echoe echok -echonl -noflsh -xcase -tostop -echoprt echoctl echoke
 ```
 
-The best way to work around serial setting problem with `screen` is via `stty` command.  Linux treats serial devices as tty with its control-character.
+The best way to work around serial setting problem with `screen` is via `stty` command.  Linux treats serial devices as tty with its control-character.  It's a bit hectic to understand programming the serial device in Unix in comparison to MS.NET platform.  Once you're acquainted with it, you will be more comfortable with communication to a serial device with `screen`, since `screen` is ubiquitous in Unix (minicom, .. are less popular).
 
 From the man page for stty:
 * csN - set character size to N bits, N in [5..8]
