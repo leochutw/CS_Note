@@ -20,6 +20,7 @@ Local repo creation      | -----  | -----     | OOOOO
 GDrive sync              | -----  | OOO--     | ****-
 Blog Upload              | -----  | OOOO-     | ****-
 Fancy Features(non-MD)   | OOOO-  | O----     | -----
+Export to HTML/PDF/..    | -----  | OOOO-     | ****-
 
 ## Alternative Platforms for Content Management
 I've been contemplating about using a Wiki or WordPress (easier to use) for storing my online notes, but I don't want to host a web-server for Wiki and posting code snippets with my blogger account is not that pleasant.  I just love markdown's ability to embed code snippets and syntax hightlight them to the language of my choice.  MarkDown is more suitable for me as a software programmer.  All of these platforms offers revision tracking of some sort, WordPress is slightly more difficult to configure.
