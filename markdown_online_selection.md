@@ -9,7 +9,7 @@ I am in love with markdown language, particularly for my note-taking and perhaps
 
 ## Contestants for Online MarkDown Editor
 
-Star Score for Feature (OOOOO is full 5 stars, and ----- is 0 star) 
+Star Score for Feature (OOOOO is full 5 stars, and ----- is 0 star, ***** means 5-stars after plugin) 
 Feature                  | HackMD | StackEdit | GitHub
 -------------------------|--------|-----------|---------
 Real-time MD Render      | OOOOO  | OOOOO     | -----
@@ -17,4 +17,9 @@ Storage for media        | OO---  | O----     | OOOOO
 Archive Search           | -----  | O----     | OOOOO
 Revision Control         | -----  | -----     | OOOOO
 Local repo creation      | -----  | -----     | OOOOO
-GDrive sync              | -----  | OOO--     | n/a
+GDrive sync              | -----  | OOO--     | ****-
+Blog Upload              | -----  | OOOO-     | ****-
+Fancy Features(non-MD)   | OOOO-  | O----     | -----
+
+## Alternative Platforms for Content Management
+I've been contemplating about using a Wiki or WordPress (easier to use) for storing my online notes, but I don't want to host a web-server for Wiki and posting code snippets with my blogger account is not that pleasant.  I just love markdown's ability to embed code snippets and syntax hightlight them to the language of my choice.  MarkDown is more suitable for me as a software programmer.  All of these platforms offers revision tracking of some sort, WordPress is slightly more difficult to configure.
