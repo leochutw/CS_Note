@@ -15,3 +15,6 @@ search engine | hyperlink
 winlong_md    | https://github.com/search?q=%s+user%3Awinlong1977+extension%3Amd&type=Code&ref=advsearch&l=&l= 
 
 **IMPORTANT**: Search within github really makes my life easier.  I no longer have to clone the repository into my local machine and `grep` through the files.
+
+## github deskopt
+This is a GUI tool for `git` command for GitHub.  It's similiar to Altanssian's [SourceTree](https://www.sourcetreeapp.com/).  Something easy yet intutive for first time user, however, `git` command is still more powerful.
