@@ -1,6 +1,6 @@
 
 # Background
-I just realized that you can create Jupyter/IPyhtonNotebook in [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb) which can link to github.  Bravo.
+I just realized that you can create Jupyter/IPyhtonNotebook in [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb) and a few other cloud service providers too.  Bravo.  For my hobbyist project, I can upload some share market data (hopefully to github) and analysis it in the cloud and publish my finding in github (streamlined).  All are super convenient for me.
 
 ## References
 https://www.dataschool.io/cloud-services-for-jupyter-notebook/ lists out 6 cloud services for ipython.  Each solution has its pros and cons.  I am just going to write the pros and cons in my perspective for my own reference.
