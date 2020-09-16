@@ -4,7 +4,7 @@ I just realized that you can create Jupyter/IPyhtonNotebook in [Google Colab](ht
 
 ## ipynb on binder
 This is probably the most convenient way of creating ipynb on the cloud. (Better than Google colab).
-![create ipynb project on binder](./media/create_ipynb_binder.jpg)
+![create ipynb project on binder](./media/create_ipynb_binder.png)
 https://hub.gke.mybinder.org/user/winlong1977-cs_note-ce1iodoq/tree/ipynb
 
 ## ipynb on github
