@@ -1,10 +1,11 @@
+.. _01_pagelink_main:
 
 I stumbled on reStructureText while I am browsing on this blog, https://linuxtools-rst.readthedocs.io/zh_CN/latest/base/01_use_man.html, on Linux note.  
 I am still not sure about reST's syntax as I am getting used to MarkDown language.  Anyway, it's good to learn.
 
 
 
-.. _01_page_link:
+
 
 Heading 1
 ==========
