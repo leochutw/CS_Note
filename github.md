@@ -4,7 +4,7 @@ This is a change I made from MS-Windows machine on github desktop.
 
 
 ## github search
-I've got quite a lot of information in my github account, so searching within my repositories will be useful, particularly on Markdown files I've written.  Fortunately github allows users to search all public repositories, but I just need to search within my own repositories to recall my memory from my markdown notes.
+I intend to store my notes in my github account, lots of notes will be made and searching within this note repository becomes imperative, particularly MarkDown files are pure text.  Fortunately `github` allows users to search (clikc on top left corner on the github page) all public repositories so that I can recall the information I've recorded down.  *NOTE*(update 2022): github.dev integrates VSCode onto web which makes online code/MarkDown editing much easier.
 
 Please refer to github's documentation on [search on github](https://docs.github.com/en/github/searching-for-information-on-github/searching-on-github) and [about search](https://docs.github.com/en/github/searching-for-information-on-github/searching-on-github).
 
