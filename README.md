@@ -5,3 +5,4 @@ Marvellous...  Editing in Codespace is actually very easy with Codespace app on 
 
 ## I want to test multiple commits in my local Surface7_leochu branch will be squashed into one commit in the final merge to the master
 ### This is commit 1
+### This is commit 2
