@@ -7,4 +7,5 @@ Marvellous...  Editing in Codespace is actually very easy with Codespace app on 
 ### This is commit 1
 ### This is commit 2
 ### This is commit 3
-new content from new_local branch
+
+This Surface7_leochu should not exist on my github page after I've merged it and delete it, hwoever, `git branch -a` on my local machine still shows this remote origin branch.  Maybe it was not totally deleted.
