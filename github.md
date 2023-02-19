@@ -3,7 +3,7 @@ This is a change I made from MS-Windows machine on github desktop.
 
 ## Change made on github web directly... so my local 'Surface7' branch is falling behind the latest master.
 
-
+## Change I made on Surface7 laptop...
 
 ## github search
 I intend to store my notes in my github account, lots of notes will be made and searching within this note repository becomes imperative, particularly MarkDown files are pure text.  Fortunately `github` allows users to search (clikc on top left corner on the github page) all public repositories so that I can recall the information I've recorded down.  *NOTE*(update 2022): github.dev integrates VSCode onto web which makes online code/MarkDown editing much easier.
